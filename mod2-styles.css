@@ -20,10 +20,14 @@ body {
   section {
     border: 3px solid black;
     background-color: blanchedalmond;
+<<<<<<< HEAD
     width: 100%;
     height: 250px;
     color: black;
     position: relative;
+=======
+    height: 250px;
+>>>>>>> bac6d9636fa5431f046612dde172cf9af274d735
     overflow: auto;
   }
 
@@ -38,7 +42,10 @@ body {
   }
 
   p {
+<<<<<<< HEAD
     padding: 10px;
+=======
+>>>>>>> bac6d9636fa5431f046612dde172cf9af274d735
     clear: right;
     width: 90%;
   }
@@ -55,9 +62,12 @@ body {
     background-color: grey;
   }
 
+<<<<<<< HEAD
   .row {
     width: 100%;
   }
+=======
+>>>>>>> bac6d9636fa5431f046612dde172cf9af274d735
 
   /********* Desktop version **********/
   @media (min-width: 992px) {
